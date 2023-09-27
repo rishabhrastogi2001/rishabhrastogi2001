@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Rastogi</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
-- 💬 Ask me about **Enthusiastic and detail-oriented data analytics fresher with a passion for uncovering insights from complex datasets. Proficient in utilising tools such as Python, SQL, and Excel to clean, preprocess, and analyse data. Dedicated learner who stays updated with industry trends and is eager to contribute to cross-functional teams. An effective communicator with the ability to translate data findings into actionable insights.**
+- **Enthusiastic and detail-oriented data analytics fresher with a passion for uncovering insights from complex datasets. Proficient in utilising tools such as Python, SQL, and Excel to clean, preprocess, and analyse data. Dedicated learner who stays updated with industry trends and is eager to contribute to cross-functional teams. An effective communicator with the ability to translate data findings into actionable insights.**
 
 - 📫 How to reach me **rishabhrastogi028@gmail.com**
 
